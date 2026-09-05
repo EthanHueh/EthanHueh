@@ -3,7 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&width=250&lines=Hello%2C+there!;I'm+Nattan+Souza!;Keep+learning!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+  <img
+    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&width=250&lines=Hello%2C+there!;I'm+Nattan+Souza!;Keep+learning!"
+  />
+  </a>
 </div>
 
 <div align="center">
@@ -11,18 +16,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nattansouza404&show_icons=true&hide_border=true&bg_color=E7E7E7" alt="Anurag's GitHub stats" style="width: 55%; max-width: 300px; height: 200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nattansouza404&hide_border=true&bg_color=E7E7E7" alt="Top Langs" style="width: 40%; max-width: 300px; height: 250px"/>
-</div>
-
-<div align="center">
   <h3><strong>Skills</strong></h3>
 </div>
 
 <div align="center">
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" style="height: 60px">
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" style="height: 60px">
-  <img src ="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" style="height: 60px">
+  <img
+    src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" style="height: 60px" alt="HTML">
+  <img
+    src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png"
+    style="height: 60px"
+    alt="CSS">
+  <img
+    alt=""
+    src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"
+    style="height: 60px"
+  >
   <img src="https://github.com/user-attachments/assets/dd171185-16ad-487a-aecc-1579502ad63d" alt="Node JS" style="height: 60px">
   <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="height: 60px">
   <img src="https://github.com/user-attachments/assets/15dd9707-260b-4081-b896-dbff0ffac4f1" alt="Spring Boot" style="height: 60px">
@@ -30,7 +38,7 @@
   <img src ="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" style="height: 60px">
   
   </br>
-  <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" style="height: 60px">
+  <img src ="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="height: 60px">
   <img src ="https://github.com/user-attachments/assets/06851a6c-5780-4b9c-b89d-af3b4e605636" style="height: 60px">
   <img src ="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" style="height: 60px">
   <img src ="https://www.northware.mx/wp-content/uploads/2022/09/northware-microsoft-power-bi-logo.png" style="height: 60px">
@@ -47,4 +55,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=A7A7A7&height=100">
 </div>
-
